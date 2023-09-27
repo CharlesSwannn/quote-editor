@@ -233,7 +233,7 @@ DEPENDENCIES
   capybara
   cssbundling-rails
   debug
-  devise (~> 4.8.1)
+  devise
   jbuilder
   jsbundling-rails
   pg (~> 1.1)
